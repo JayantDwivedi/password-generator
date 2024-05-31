@@ -1,0 +1,27 @@
+{
+  "name": "jd-password-generator",
+  "version": "1.0.0",
+  "description": "A random password sting generator.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JayantDwivedi/password-generator.git"
+  },
+  "keywords": [
+    "random-password-generator",
+    "password-generator",
+    "js-password-generator",
+    "string-password-generator."
+  ],
+  "author": "jayant-dwivedi",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/JayantDwivedi/password-generator/issues"
+  },
+  "homepage": "https://github.com/JayantDwivedi/password-generator#readme"
+}
